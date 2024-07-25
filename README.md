@@ -109,6 +109,20 @@ This project is a Node.js backend application to manage articles, users, likes, 
 - **URL:** `/notifications`
 - **Method:** `GET`
 
+## Installation
+
+
+1. **Install dependencies**
+    ```bash
+    npm install
+    ```
+
+2. **Make sure MongoDB is running** on your local machine at `mongodb://localhost:27017`.
+
+3. **Start the server**
+    ```bash
+    nodemon server.js
+    ```
 
 
 ## Example Usage
